@@ -22,4 +22,11 @@ export const projects = [
     link: "https://play.google.com/store/apps/details?id=com.loc.loc",
     img: "/loc.webp"
   },
+  {
+    title: "Treino Easy",
+    description:
+      "Aplicativo para pessoas que buscam simplicidade e eficiência, o app permite que você crie rotinas semanais de treino, cadastre os exercícios de cada dia",
+    link: "https://play.google.com/store/apps/details?id=com.treinofacil.fpo",
+    img: "/treinoeasy.png"
+  },
 ];
